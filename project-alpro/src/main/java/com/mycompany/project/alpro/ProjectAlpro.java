@@ -9,7 +9,7 @@ package com.mycompany.project.alpro;
  * @author xaver
  */
 public class ProjectAlpro {
-
+// nganu
     public static void main(String[] args) {
         StartMenu LM = new StartMenu();
         LM.setVisible(true);
